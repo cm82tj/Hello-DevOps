@@ -2,6 +2,8 @@ Hello DevOps – egyszerű Node.js alkalmazás
 
 Orosz László - CM82Tj
 
+V2 (teszt)
+
 Ez egy egyszerű „Hello world” jellegű webalkalmazás.
 HTTP-n keresztül elérhető, és egy szöveget ad vissza a böngészőnek.
 
